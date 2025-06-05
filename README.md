@@ -23,6 +23,9 @@ I was born and raised in India 🇮🇳, where I developed a strong foundation i
   <img src="https://img.shields.io/badge/Tools-Git-red?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Tools-GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Tools-Obsidian-purple?style=for-the-badge&logo=obsidian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-React.js-blue?style=for-the-badge&logo=React.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-Node.js-pink?style=for-the-badge&logo=Node.js&logoColor=white" />
+  
 </p>
 
 ---
